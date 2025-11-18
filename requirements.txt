@@ -1,0 +1,5 @@
+breeze-connect
+streamlit
+pandas
+numpy
+scikit-learn
